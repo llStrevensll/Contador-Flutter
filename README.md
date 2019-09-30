@@ -1,4 +1,4 @@
-# contador
+# Contador-App
 
 A new Flutter project.
 
@@ -23,5 +23,22 @@ En esta sección tocaremos temas sobre:
 - Scaffolds
 - Estilos
 - Botones: FloatingActionButton
+
+***App***
+<p align="center">
+  <img src="https://github.com/llStrevensll/Contador-Flutter/blob/master/images_git/app_contador1.PNG?raw=true" alt="app_contador1"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/llStrevensll/Contador-Flutter/blob/master/images_git/app_contador2.PNG?raw=true" alt="app_contador2"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/llStrevensll/Contador-Flutter/blob/master/images_git/app_contador3.PNG?raw=true" alt="app_contador3"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/llStrevensll/Contador-Flutter/blob/master/images_git/app_contador4.PNG?raw=true" alt="app_contador4"/>
+</p>
 
 
